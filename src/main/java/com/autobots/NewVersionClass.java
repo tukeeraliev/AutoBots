@@ -5,3 +5,4 @@ public class NewVersionClass {
         System.out.println("New version 4.0.0");
     }
 }
+
